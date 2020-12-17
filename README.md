@@ -1,4 +1,4 @@
-<img src="AhmetALTUN.gif" width="auto" />
+<img src="AhmetALTUN.png" width="auto" />
 <hr>
 
 ![Biyonik's github stats](https://github-readme-stats.vercel.app/api?username=biyonik&show_icons=true)
