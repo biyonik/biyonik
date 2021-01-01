@@ -1,5 +1,4 @@
-<img src="AhmetALTUN.png" width="110%" />
-<hr>
+
 
 ![Biyonik's github stats](https://github-readme-stats.vercel.app/api?username=biyonik&show_icons=true)
 
