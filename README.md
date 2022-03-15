@@ -6,11 +6,10 @@
 ![CSharp](https://img.shields.io/badge/C%23-Lang-success)
 ![EntityFramework](https://img.shields.io/badge/.NET-Entity%20Framework-informational)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![Angular](https://img.shields.io/badge/Angular-DD0031)
 ![ReactJS](https://img.shields.io/badge/JavaScript-ReactJS-9cf)
 ![VueJS](https://img.shields.io/badge/JavaScript-VueJS-orange)
-![Kotlin](https://img.shields.io/badge/-Kotlin-brightgreen)
-![Python](https://img.shields.io/badge/-Python-blue)
-![Django](https://img.shields.io/badge/Python-Django-blueviolet)
+
 
 
 
